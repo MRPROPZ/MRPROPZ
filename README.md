@@ -25,3 +25,17 @@
 | C++        |:lock:|
 | C          |:lock:|
 | TYPESCRIPT |:lock:|
+
+---
+
+### Typing spped check!!
+| Language      |  Check  |
+| ------------- |-----:|
+| 70 wpm     |:unlock:|
+| 80 wpm     |:unlock:|
+| 90 wpm     |:unlock:|
+| 100 wpm    |:unlock:|
+| 110 wpm    |:lock:|
+| 120 wpm    |:lock:|
+| 130 wpm    |:lock:|
+| TYPESCRIPT |:lock:|

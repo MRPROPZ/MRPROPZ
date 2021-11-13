@@ -38,4 +38,4 @@
 | 110 wpm    |:lock:|
 | 120 wpm    |:lock:|
 | 130 wpm    |:lock:|
-| TYPESCRIPT |:lock:|
+

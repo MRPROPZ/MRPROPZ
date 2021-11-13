@@ -2,7 +2,7 @@
 
 #### My nick is Prop 
 #### I'm a student information and communication 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://studio.youtube.com/channel/UCF7Z12ZY_P_2oyqim_aBMCA/editing/images "Logo Title Text 1")
 ---
 #### I'm happy for you watching me 
 

@@ -2,14 +2,14 @@ Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 ===========================================================================================================================================
 
 
-I'm Sarunwit Nontaseasn from Thailand, and I'm currently student Information Communication and Technology. I've interest about Cybersecurity Red Team and Blue Team. In my free time I like to play dead by daylight and upload highlight on youtube channel. You can check my youtube channel here : https://youtube.com/@MRPROPZP100
+I'm Sarunwit Nontaseasn from Thailand, and I'm currently student Information Communication and Technology. I've interest about Cybersecurity Red Team and Blue Team. In my free time I like to play dead by daylight and upload highlight on youtube channel. You can check my youtube channel below
 
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [MyPortfolio (In Future)](http://idonthave.com)
 * ✉️  You can contact me at [sarunwit.contact@gmail.com](mailto:sarunwit.contact@gmail.com)
 * 🧠  I'm learning Digital Forensics
-* ⚡  I'm youtuber play horror game main on youtube : <a href="https://youtube.com/@MRPR0PZ" target="_blank">MRPROPZ</a>
-<a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
+* <a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>  I'm youtuber play horror game main on youtube : <a href="https://youtube.com/@MRPR0PZ" target="_blank">MRPROPZ</a>
+
 
 <a href="https://www.github.com/MRPROPZ" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/MRPROPZ?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" />

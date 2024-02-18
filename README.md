@@ -12,7 +12,7 @@ I'm Sarunwit Nontaseasn from Thailand, and I'm currently student Information Com
 
 <a href="https://www.github.com/MRPROPZ" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/MRPROPZ?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" />
-<img src="https://komarev.com/ghpvc/?username=MRPROPZ&style=for-the-badge&color=black" />
+<img src="https://komarev.com/ghpvc/?username=MRPROPZ&style=for-the-badge&color=white" />
 </a>
 
 ### Skills

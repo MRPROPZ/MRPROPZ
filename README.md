@@ -33,8 +33,4 @@ src="https://img.shields.io/github/followers/MRPROPZ?logo=github&style=for-the-b
 
 ### Support Me
 
-<div style="list-style-type: none; margin: 0;">
-
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/mrpropz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
-</div>

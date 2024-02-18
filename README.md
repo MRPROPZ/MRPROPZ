@@ -11,7 +11,7 @@ I'm Sarunwit Nontaseasn from Thailand, and I'm currently student Information Com
 * ⚡  I'm youtuber play horror game main on youtube : https://www.youtube.com/@MRPROPZP100
 
 <a href="https://www.github.com/mrp100" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mrp100?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/MRPROPZ?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" /></a>
 
 ### Skills
 

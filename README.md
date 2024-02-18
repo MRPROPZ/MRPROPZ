@@ -10,9 +10,10 @@ I'm Sarunwit Nontaseasn from Thailand, and I'm currently student Information Com
 * 🧠  I'm learning Digital Forensics
 * ⚡  I'm youtuber play horror game main on youtube : https://www.youtube.com/@MRPROPZP100
 
-<a href="https://www.github.com/mrp100" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/MRPROPZ?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" /></a>
-[![](https://visitcount.itsvg.in/api?id=MRPROPZ&icon=0&color=0)](https://visitcount.itsvg.in)
+<a href="https://www.github.com/MRPROPZ" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/MRPROPZ?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" />
+</a>
+![](https://komarev.com/ghpvc/?username=MRPROPZ&style=flat-square)
 ### Skills
 
 

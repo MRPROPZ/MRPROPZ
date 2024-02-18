@@ -8,7 +8,7 @@ I'm Sarunwit Nontaseasn from Thailand, and I'm currently student Information Com
 * 🖥️  See my portfolio at [MyPortfolio (In Future)](http://idonthave.com)
 * ✉️  You can contact me at [sarunwit.contact@gmail.com](mailto:sarunwit.contact@gmail.com)
 * 🧠  I'm learning Digital Forensics
-* ⚡  I'm youtuber play horror game main on youtube : https://www.youtube.com/@MRPR0PZ
+* ⚡  I'm youtuber play horror game main on youtube : <a href="[https://www.github.com/MRPROPZ](https://www.youtube.com/@MRPR0PZ)" target="_blank">
 
 <a href="https://www.github.com/MRPROPZ" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/MRPROPZ?logo=github&style=for-the-badge&color=10b981&labelColor=1c1917" />

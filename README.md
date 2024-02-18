@@ -1,7 +1,7 @@
 Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===========================================================================================================================================
 
-I'm Sarunwit Nontaseasn from Thailand, and I'm currently student Information Communication and Technology. I've interest about Cybersecurity Red Team and Blue Team. In my free time I like to play dead by daylight and upload my play highlight on youtube channel. You can check my youtube channel here : https://youtube.com/@MRPROPZP100
+I'm Sarunwit Nontaseasn from Thailand, and I'm currently student Information Communication and Technology. I've interest about Cybersecurity Red Team and Blue Team. In my free time I like to play dead by daylight and upload highlight on youtube channel. You can check my youtube channel here : https://youtube.com/@MRPROPZP100
 
 * 🌍  I'm based in Thailand
 * 🖥️  See my portfolio at [MyPortfolio (In Future)](http://idonthave.com)

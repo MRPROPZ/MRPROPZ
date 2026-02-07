@@ -37,3 +37,4 @@ I'm Sarunwit Nontaseasn from Thailand, and I'm currently student Information Com
 ### Support Me
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/mrpropz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://tipme.in.th/mrpropz"><img src="https://tipme.in.th/_assets/assets/f36c3097.svg" width="150"/></a></li>
